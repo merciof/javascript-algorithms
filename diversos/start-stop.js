@@ -28,7 +28,7 @@ function startStop() {
     tempoInicial = null;
     tempoFinal = null;
     executando = false;
-    ducarao = 0;
+    duracao = 0;
   }
 
   Object.defineProperty(this,'duracao',{
