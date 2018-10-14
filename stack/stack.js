@@ -1,3 +1,6 @@
+/*
+Função Construtora para um objeto que representa a estrutura de dados Pilha. 
+*/
 function Stack() {
 
     let items = [];
